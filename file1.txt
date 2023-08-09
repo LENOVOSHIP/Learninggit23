@@ -1,3 +1,4 @@
 first file created to test git workflow
 chacking weather git commit -m it the command or
 git commit <file name> -m is the command
+just checking one by one
