@@ -1,1 +1,3 @@
 file two created with touch <filename> command
+just checking git commit -m is commiting all files in stagung area
+so git commit <filename> -m will commit only that file  
